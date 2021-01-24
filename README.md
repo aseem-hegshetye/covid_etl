@@ -1,3 +1,6 @@
+### Python ETL to load covid data per county in NY in a local sqlite3 db.
+**API** = https://health.data.ny.gov/api/views/xdss-u53e/rows.json?accessType=DOWNLOAD
+
 Clone this project to your local directory.
 cd into covid_etl directory.
 
@@ -24,6 +27,6 @@ exist then a new table gets created.
 
 `python main.py`
 
-### Test:
+#### Test:
 
 `python -m unittest discover`
