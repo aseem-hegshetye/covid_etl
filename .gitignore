@@ -1,1 +1,7 @@
 /myvenv/
+covid
+covid_test
+
+.idea/
+
+__pycache__/
